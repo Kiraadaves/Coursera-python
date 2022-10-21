@@ -39,7 +39,7 @@ Step 2: Complete the read_file() function to read in the sampletext.txt file usi
 
 Step 3: Complete the read_file_into_line() function so that it returns a data structure of all the contents of the file in a line-by-line sequential order.
 
-Step 4: Fill in the write_first_line_to_file() that accepts two arguments: the contents of a file to be written and the name of an output file, and writes only the first line of the file contents into the given output file.
+Step 4: Fill in the write_first_line_to_file() that accepts two arguments: the contents of a file to be written and the name of an output file, and writes only the first line of the file contents into the given output file.###Note that I have'nt been able to make this line work properly
 
 Step 5: Complete the read_even_numbered_lines() to return a list of the even-numbered lines of a file (2, 4, 6, etc.)
 
